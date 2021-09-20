@@ -17,27 +17,16 @@
 <br>
 
 <h4><strong>SOBRE MIM</strong></h4>
-
 <br>
-
 <p>Sou programador com foco em desenvolvimento Web.</p>
-
 <br>
-
 <p>Trabalhei em projetos de pequeno a grande porte.</p>
-
 <br>
-
 <p>Apaixonado por programação.</p>
-
 <br>
-
 <p>Atualmente, assumo o cargo de Analista Programador .NET na Universidade Paulista, responsável pela manutenção dos projetos existentes e desenvolvimento de novos projetos.</p>
-
 <br>
-
 <h4><strong>Stack</strong></h4>
-
 <br>
 
 <ul>
