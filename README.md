@@ -1,57 +1,44 @@
-### Bem vindo!
+## Paulo Diego de Oliveira
 
-<br>
+### Olá! Bem vindo ao meu perfil! 🇧🇷
 
-<a href="https://www.linkedin.com/in/paulodiegodeoliveira">
-  <span>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </span>
-</a>
+- 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 🐱 37 anos
+- 👾 Formado em análise e desenvolvimento de sistemas**
+- 🎮 Games / 🎶 Músicas /
 
-<a href="https://www.instagram.com/paulodiegooliveira/">
-  <span>
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </span>
-</a>
+<div>
+  <a href="https://github.com/PauloDiegoDeOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFickert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFickert&layout=default&langs_count=7&theme=tokyonight"/> -->
+</div>
 
-<br>
-
-<h4><strong>SOBRE MIM</strong></h4>
-<br>
-<p>Sou programador com foco em desenvolvimento Web.</p>
-<p>Trabalhei em projetos de pequeno a grande porte.</p>
-<p>Apaixonado por programação.</p>
-<p>Atualmente, assumo o cargo de Analista Programador .NET na Universidade Paulista, responsável pela manutenção dos projetos existentes e desenvolvimento de novos projetos.</p>
-<h4><strong>Stack</strong></h4>
-<br>
-
-<ul>
-  <li>C#</li>
-  <li>.NET Framework</li>
-  <li>.NET Core</li>
-  <li>ASP.NET MVC</li>
-  <li>ASP.NET Core</li>
-  <li>EF Framework</li>
-  <li>EF Core</li>
-  <li>SQL</li> 
-  <li>MS SQL Server</li>
-  <li>MySQL</li>
-  <li>PostgreSQL</li> 
-  <li>Clean Architeture</li>
-  <li>DDD</li>
-  <li>TDD</li>
-  <li>SOLID</li>
-  <li>Clean Code</li>
-  <li>Design Patterns</li>
-  <li>Unit Tests</li>
-  <li>HTML / CSS</li>
-  <li>Git</li>
-  <li>Github</li>
-</ul>
-
-<br><br>
-<br>
-
-<p align="center">2021</p>
-
-<br>
+ # Competencias / Skills
+- C#
+- Linq
+- EF Framework
+- .NET
+- .NET Core
+- .NET Framework
+- SQL Server
+- MySQL
+- PostgreSQL
+- HTML/CSS
+- Clean Architeture
+- Onion Architeture 
+- DDD
+- TDD
+- SOLID
+- Design Patterns
+- Unit Tests
+- Git
+- Github
+  
+ <hr>
+  
+<div>
+  <a href="https://www.instagram.com/paulodiegooliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/paulodiegodeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"          target="_blank">
+  </a> 
+</div
