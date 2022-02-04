@@ -16,7 +16,7 @@
  # Competencias / Skills
 - C#
 - Linq
-- EF 
+- Entity Framework 
 - .NET
 - .NET Core
 - .NET Framework
