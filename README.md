@@ -5,7 +5,7 @@
 - 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 🐱 37 anos
 - 👾 Formado em análise e desenvolvimento de sistemas
-- 🎮 Games / 🎶 Músicas /
+- 🎮 Games / 🎶 Músicas / 📽 Filmes/Séries
 
 <div>
   <a href="https://github.com/PauloDiegoDeOliveira">
