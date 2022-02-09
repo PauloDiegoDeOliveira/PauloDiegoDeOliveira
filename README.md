@@ -14,7 +14,7 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiegoDeOliveira&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
 
- # Competencias / Skills
+ # Competências / Skills
 - C#
 - Linq
 - Entity Framework 
