@@ -13,6 +13,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloDiegoDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiegoDeOliveira&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
+  
+  <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiegoDeOliveira&layout=compact&hide=html&theme=dark" alt="PauloDiegoDeOliveira" />
+<div/>
+<br />
+
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PauloDiegoDeOliveira&repo=PauloDiegoDeOliveira&countColor=%237B1E7A)
 
  # Competências / Skills
 - C#
@@ -37,13 +44,6 @@
 - API Rest
   
  <hr>
-  
-  <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiegoDeOliveira&layout=compact&hide=html&theme=dark" alt="ardalis" />
-<div/>
-<br />
-
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PauloDiegoDeOliveira&repo=PauloDiegoDeOliveira&countColor=%237B1E7A)
   
 <div>
   <a href="https://www.instagram.com/paulodiegooliveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
