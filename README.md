@@ -14,9 +14,12 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiegoDeOliveira&layout=default&langs_count=7&theme=tokyonight"/> -->
 </div>
   
+  <br />
+  
   <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDiegoDeOliveira&layout=compact&hide=html&theme=dark" alt="PauloDiegoDeOliveira" />
 <div/>
+    
 <br />
 
 ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PauloDiegoDeOliveira&repo=PauloDiegoDeOliveira&countColor=%237B1E7A)
