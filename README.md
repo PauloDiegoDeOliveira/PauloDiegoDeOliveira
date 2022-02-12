@@ -4,8 +4,8 @@
 
 - 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 🐭 37 anos
-- 👾 Formado em análise e desenvolvimento de sistemas
-- 🎮 Games / 🎶 Músicas / 🎞 Filmes/Séries
+- 🧠 Formado em análise e desenvolvimento de sistemas
+- 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries
 - ❤ Apaixonado pelo desenvolvimento de software e tecnologia. 
 
 <div>
