@@ -29,8 +29,8 @@
 - .NET
 - .NET Core
 - SQL Server
-- MySQL
 - HTML/CSS
+- JavaScript 
 - Clean Architeture
 - Onion Architeture 
 - DDD
@@ -39,7 +39,6 @@
 - Design Patterns
 - Unit Tests
 - Git
-- Github
 - API Rest
   
  <hr>
