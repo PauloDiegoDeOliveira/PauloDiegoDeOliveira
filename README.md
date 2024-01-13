@@ -6,6 +6,7 @@
 - 🐭 39 anos
 - 🧠 Formado em análise e desenvolvimento de sistemas
 - 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries
+- ❤ Apaixonado pelo meu filho Diego.
 - ❤ Apaixonado pelo desenvolvimento de software e tecnologia. 
 
 <div>
