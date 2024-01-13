@@ -3,7 +3,7 @@
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
 - 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
-- 🐭 38 anos
+- 🐭 39 anos
 - 🧠 Formado em análise e desenvolvimento de sistemas
 - 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries
 - ❤ Apaixonado pelo desenvolvimento de software e tecnologia. 
@@ -33,6 +33,7 @@
 - JavaScript 
 - Clean Architeture
 - Onion Architeture 
+- Clean Code
 - DDD
 - TDD
 - SOLID
