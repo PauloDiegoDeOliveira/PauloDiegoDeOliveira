@@ -42,6 +42,8 @@
 - Unit Tests
 - Git
 - API Rest
+- Angular
+- Typescript
   
  <hr>
   
