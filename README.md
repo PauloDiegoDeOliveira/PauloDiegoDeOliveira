@@ -2,7 +2,7 @@
 
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
-- 🖥️ *Desenvolvedor Back-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
+- 🖥️ *Desenvolvedor Back-end e Front-end* na [Universidade Paulista - UNIP](https://www.unip.br/)
 - 🐭 40 anos
 - 🧠 Formado em análise e desenvolvimento de sistemas
 - 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries
