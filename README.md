@@ -3,7 +3,7 @@
 ### Olá! Bem vindo ao meu perfil! 🇧🇷
 
 - 🖥️ *Desenvolvedor Back-end e Front-end*
-- 🐭 Age
+- 🐭 
 - 🧠 Formado em análise e desenvolvimento de sistemas
 - 🎮 Games / 🎵 Músicas / 🎞 Filmes/Séries
 - ❤ Apaixonado pelo meu filho Diego.
@@ -43,6 +43,7 @@
 - Git
 - API Rest
 - Angular
+- React
 - Typescript
   
  <hr>
